@@ -1,0 +1,16 @@
+
+regexp=FAILED
+colours=bold red
+======
+regexp=Expected:
+colours=green
+======
+regexp=File ".*", line [0-9]*
+colours=blue
+======
+regexp=Actually passed:
+colours=red
+======
+regexp=Actually returned:
+colours=red
+
