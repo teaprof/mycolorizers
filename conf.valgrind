@@ -1,0 +1,21 @@
+regexp=::
+colours=bold green
+-
+regexp=Invalid read of size .*
+colours=bold red
+-
+regexp=\(([A-Za-z0-9_.\-]*/)*[A-Za-z0-9._\-]*:[0-9]*\)
+colours=magenta
+-
+regexp=Block was alloc'd .*
+colours=bold red
+-
+regexp=Address 0x[0-9a-f]* is [0-9]* bytes .*
+colours=bold red
+-
+regexp=Process terminating .*
+colours=bold red
+-
+regexp===[0-9]*==
+colours=yellow
+
