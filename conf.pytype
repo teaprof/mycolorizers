@@ -13,4 +13,10 @@ colours=red
 ======
 regexp=Actually returned:
 colours=red
+======
+regexp=SyntaxWarning:
+colours=red
+======
+regexp=[A-Za-z0-9_.\-\/]*:[0-9]*:
+colours=magenta
 
